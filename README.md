@@ -20,7 +20,7 @@
 
 
 
-### 🛠️ Tech Stack
+###  Tech Stack
 
 - **Language:** Kotlin
 
