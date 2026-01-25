@@ -1,32 +1,32 @@
-\# PhishDetector-Mobile 🛡️📱
+# PhishDetector-Mobile 
 
 
 
-\### 🔗 About the Project
+### 🔗 About the Project
 
-\*\*PhishDetector\*\* is a mobile security application designed to audit URLs and protect users against phishing attacks. Developed in \*\*Kotlin\*\* for Android, this project is part of my journey to bridge the gap between \*\*Mobile Development\*\* and \*\*Cyber-Finance Audit\*\*.
-
-
-
-\### 🚀 Roadmap (In Progress)
-
-\- \[ ] Phase 1: Basic URL Protocol Analysis (HTTP vs HTTPS).
-
-\- \[ ] Phase 2: Domain verification \& UI development in Android Studio.
-
-\- \[ ] Phase 3: Integration of Security APIs (VirusTotal/Google Safe Browsing).
-
-\- \[ ] Phase 4: Risk scoring system for financial security.
+**PhishDetector** is a mobile security application designed to audit URLs and protect users against phishing attacks. Developed in **Kotlin** for Android, this project is part of my journey to bridge the gap between **Mobile Development** and **Cyber-Finance Audit**.
 
 
 
-\### 🛠️ Tech Stack
+###  Roadmap (In Progress)
 
-\- \*\*Language:\*\* Kotlin
+- [ ] Phase 1: Basic URL Protocol Analysis (HTTP vs HTTPS).
 
-\- \*\*IDE:\*\* Android Studio
+- [ ] Phase 2: Domain verification & UI development in Android Studio.
 
-\- \*\*Focus:\*\* Mobile Security \& User Protection
+- [ ] Phase 3: Integration of Security APIs (VirusTotal/Google Safe Browsing).
+
+- [ ] Phase 4: Risk scoring system for financial security.
+
+
+
+### 🛠️ Tech Stack
+
+- **Language:** Kotlin
+
+- **IDE:** Android Studio
+
+- **Focus:** Mobile Security & User Protection
 
 
 
