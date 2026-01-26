@@ -2,7 +2,7 @@
 
 
 
-### 🔗 About the Project
+###  About the Project
 
 **PhishDetector** is a mobile security application designed to audit URLs and protect users against phishing attacks. Developed in **Kotlin** for Android, this project is part of my journey to bridge the gap between **Mobile Development** and **Cyber-Finance Audit**.
 
