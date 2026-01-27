@@ -10,13 +10,13 @@
 
 ###  Roadmap (In Progress)
 
-- [ ] Phase 1: Basic URL Protocol Analysis (HTTP vs HTTPS).
+- [ ] Phase 1: Basic URL Protocol Analysis (HTTP vs HTTPS)
 
-- [ ] Phase 2: Domain verification & UI development in Android Studio.
+- [ ] Phase 2: Domain verification & UI development in Android Studio
 
-- [ ] Phase 3: Integration of Security APIs (VirusTotal/Google Safe Browsing).
+- [ ] Phase 3: Integration of Security APIs (VirusTotal/Google Safe Browsing)
 
-- [ ] Phase 4: Risk scoring system for financial security.
+- [ ] Phase 4: Risk scoring system for financial security
 
 
 
